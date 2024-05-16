@@ -10,13 +10,20 @@ Power BI
 
 **How to Use**
 1.Clone the Repository
+
 2.Open the Power BI File
+
 3.Explore Dashboards
+
 4.Navigate through the dashboards to visualize sales data and gain insights.
+
 5.Refer to Documentation
 
 **Future Enhancements**
 1.Expand Data Sources
+
 2.Advanced Analysis
+
 3.UI Enhancements
+
 4.Improve the dashboard user interface for enhanced usability and user experience.
