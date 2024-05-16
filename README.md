@@ -9,6 +9,7 @@ To analyze supermarket sales data, monitor KPIs, and generate insights that can 
 Power BI
 
 **How to Use**
+
 1.Clone the Repository
 
 2.Open the Power BI File
@@ -20,6 +21,7 @@ Power BI
 5.Refer to Documentation
 
 **Future Enhancements**
+
 1.Expand Data Sources
 
 2.Advanced Analysis
