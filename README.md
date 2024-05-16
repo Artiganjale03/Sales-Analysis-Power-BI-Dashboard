@@ -8,12 +8,20 @@ Welcome to the Supermarket Sales Analysis project! This initiative leverages Pow
 
 **How to Use**
 Clone the Repository
+
 Open the Power BI File
+
 Explore Dashboards
+
 Navigate through the dashboards to visualize sales data and gain insights.
+
 Refer to Documentation
-Future Enhancements
+
+**Future Enhancements**
 Expand Data Sources
+
 Advanced Analysis
+
 UI Enhancements
+
 Improve the dashboard user interface for enhanced usability and user experience.
